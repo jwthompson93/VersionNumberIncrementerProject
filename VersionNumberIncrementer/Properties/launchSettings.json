@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "VersionNumberIncrementer": {
+      "commandName": "Project",
+      "commandLineArgs": "--release_type major --version_number_file ../../../ProductInfo.txt --version_number_separator ."
+    },
+    "Profile 1": {
+      "commandName": "Project",
+      "commandLineArgs": "--release_type minor --major_release_position 1 --minor_release_position 2 --version_number_file ../../../ProductInfo.txt --version_number_separator ."
+    }
+  }
+}

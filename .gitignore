@@ -1,0 +1,5 @@
+VersionNumberIncrementerTests/bin/*
+VersionNumberIncrementerTests/obj/*
+VersionNumberIncrementer/bin/*
+VersionNumberIncrementer/obj/*
+VersionNumberIncrementer/.vs/*
