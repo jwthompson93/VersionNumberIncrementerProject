@@ -3,3 +3,5 @@ VersionNumberIncrementerTests/obj/*
 VersionNumberIncrementer/bin/*
 VersionNumberIncrementer/obj/*
 VersionNumberIncrementer/.vs/*
+obj/*
+.vs/*
